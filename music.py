@@ -18,7 +18,7 @@ from telegram.ext import (
 )
 
 # ================== تنظیمات ==================
-BOT_TOKEN = "PUT_YOUR_BOT_TOKEN_HERE"   # توکن ربات رو از @BotFather بگیر و اینجا بذار
+BOT_TOKEN = "8295625829:AAFhOF5mb9Qwtf1Eja8X7fPHyEiTlK3bip8"   # توکن ربات رو از @BotFather بگیر و اینجا بذار
 ADMIN_ID = 8904869158                    # آیدی عددی ادمین
 DB_PATH = "bot.db"
 # ===============================================
